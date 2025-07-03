@@ -1,4 +1,9 @@
 Brief Introduction About Myself
+<<<<<<< HEAD
 My name is Enock Mutsinzi. 
  I am a student from Nyarugenge District.
  I enjoy watching films and reading books in my free time.I am passionate about learning and always looking for ways to improve myself.
+=======
+
+My name is Enock Mutsinzi...
+>>>>>>> c435b39 (Added introduction file)
