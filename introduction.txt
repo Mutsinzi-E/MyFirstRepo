@@ -1,5 +1,5 @@
-Brief Introduction About Myself
+# Brief Introduction About Myself
 
-My name is Enock Mutsinzi.
-I am a student from Nyarugenge District.
-I enjoy watching films and reading books in my free time. I am passionate about learning and always looking for ways to improve myself.
+My name is Enock Mutsinzi from Rwanda. I am learning GitHub to manage my projects and work with other developers. This is my first experience using version control.
+
+I enjoy learning about technology and look forward to building my skills in software development. This repository is part of my learning journey.
