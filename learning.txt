@@ -1,1 +1,1 @@
-In this course, I have learned how to use Git commands such as clone, add, commit, and push to collaborate on projects effectively.
+What I have learned from this course is how to use Git and GitHub to collaborate with others, make pull requests, clone repositories, and manage changes using commits.
